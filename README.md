@@ -14,6 +14,8 @@ This design is:
 
 The author assumes NO LIABILITY for parts manufactured from this design.
 
+See DISCLAIMER.md for details.
+
 ## Background
 
 Original part became unavailable from manufacturer. This design was created by:
@@ -23,7 +25,7 @@ Original part became unavailable from manufacturer. This design was created by:
 
 ## License
 
-This work is licensed under CERN Open Hardware Licence Version 2 - Strongly Reciprocal (CERN-OHL-S-2.0).
+This work is licensed under CERN Open Hardware Licence Version 2.
 
 See LICENSE file for full terms.
 
@@ -51,3 +53,21 @@ Landing gear is a CRITICAL SAFETY component. Any part manufactured from this des
 - Meet all applicable regulations
 
 **Your life depends on it. Don't cut corners.**
+
+## Material Specifications
+
+**Choose 17-4 PH H900:**
+- You want best value and availability
+- Standard machining capability
+- Weight is acceptable
+
+**Choose 15-5 PH H900:**
+- Maximum corrosion resistance needed
+- Coastal/high humidity environment
+- 15-5 is readily available in your area
+
+**Choose Ti-6Al-4V Grade 5:**
+- Weight savings critical (2.5 lbs lighter)
+- You have access to titanium machining equipment
+- Budget allows (~$500-900 premium)
+- Want absolute best corrosion resistance
